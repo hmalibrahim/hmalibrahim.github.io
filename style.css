@@ -38,3 +38,17 @@ img {
   height: auto;
   margin: 10px 0;
 }
+
+/* Unique layout for the Hobby page */
+.hobby-container {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.hobby-container img {
+  width: 80%; /* Make the image larger */
+  max-width: 500px; /* Limit max size */
+  display: block;
+  margin: 10px auto;
+}
